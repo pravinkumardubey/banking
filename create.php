@@ -11,7 +11,7 @@
 			updateClock(date);
 		},1000);
 
-
+        //hgghc
 		function updateClock(date){
 			var secHand=document.getElementById('sec').style;
 			var minHand=document.getElementById('min').style;
